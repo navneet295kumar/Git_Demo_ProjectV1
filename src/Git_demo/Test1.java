@@ -4,7 +4,7 @@ public class Test1 {
 
 	public static void main(String[] args) {   
 		
-		boolean isPremium = true;
+		boolean isPremium = false;
 		
 		if(isPremium == true) {
 			System.out.println("Apply_Discount");
